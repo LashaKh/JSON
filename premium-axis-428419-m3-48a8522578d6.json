@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "premium-axis-428419-m3",
+  "private_key_id": "48a8522578d67671e9e1cb715cc6d9b351ef1809",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOmO8XOAM/SBgs\nh+s7cY45f0gpUWeTvlcDWzSLtl4R1LYEtXovu5aYr8V2lq2c48XySRfbeLKCQjGT\npYZAC6131enrlH8fY2cfJihb4Fb8WcwC6FxXM8ypz0+/Ov6SpfcakK/lkum9z/Np\nThTbDwyijgfC5O0hjZjCntHfBQ6cfkj1RlVfsFIGoV6QYGznQpgSIoehBR7stbER\nNQB44vlf+LMoSaFGdi7pxOiV2E2LZs8gKeB5NzZe+MgCL8yvGOejgtCD1yUhLuCf\nxaxbPB8YH1moBTeRSJ0acveRqLJl+6uKkbq7VqA40BQ6NtuGiGg1YSWFzDkb1gW/\ng7nkae3fAgMBAAECggEAJihwDIlPbDo8IMlv5JhKLQt5wAvlhg/DUX7geyeRQ1jW\nz5LXQQa0P3pDje4xncciEeh3LBWkXtOsBXmujJi7juUnIdhZDGqXKtUo4iNS3aQW\nPrk9COwr0ndUYt0aFOrrc3Ai1NOoMWM9sYb26iji7AkwnMoclDRrcRLVb4wnETca\n3odtIYsvcACkPUA5b2rrfQzPFhNEQKAEqWy69RrxOd6VXHh0ln+wP/QsJjVxe+j6\n4cqTaU1o4T37t+ssrMDljjEuFSoNie+JFcSznczmFElhSDJMaERGqyC6iuiJkxGs\n41ynj40B2FfuQHxagJbowqacsByNLBqZwfi3PxRV3QKBgQDymZSeDjKq4e90TNVR\nObH22qfozNRErwKYyh2uuO8wTSeqtdkmwXjqgBiHpAPa/NLRRW5vy/qkec1iaUxM\nIVrRuqTtelRJ96DUztM/NPuY38LYhoEljG24IP3fFoEgrGxV8erX247U+vKE5ybk\n7Wb7r0X+ljIuP8pyTVZYzsnqGwKBgQDaAkTxTKQXhqf9s8L4PVRV4lDLimeO9n7G\nvQKw2bmDM15+riW3D1deM4Bdd9btrgx+TFCMSh1BNTuI1XOZmIbuwAXSPMjQL6ei\n3h3pVlWXZmH9vXqKXeu9uUAv+ZJs/ItpfzKvDep4XHvOciY+gardarMPMPf91sX3\nZ+5ZojvHjQKBgDG/WqF6qdsuz4qawteQLDVBq1LqxdB7zt2D/Mg6dhoCiFLSTYBM\nBj6YG++cq4m5dIWjZj0YqAIYVAyNKS8nW9dMHcvw3N36IInjC6CXfcxgfjUmh88q\nV8l9QnH/zGTl1qVdIVo4VLbJ6vdj6y7gm9CapZDKPeoL/LipsT4u0WrnAoGBAJZe\nKFVS6n97llVL7vevvYK7ZcTuQr190TWc2sVGd0lCXjP8Q/E+uKE13p0ZcnpfqShX\n1Nrep8z5PYYEzAYuCSuV8K3w1QWbSQHyOClgLgsOSBpu3Z2gaGBk7RvqBQ/9JN9w\nJ3JMo+O+zno3i59jaonr9XNN8E76G3OpEOJsHtVlAoGAfk2uTfQIJSpDGsea+Dhz\nU7guHJ7xb8TaXzWatoKYP34XTEhNB1IjxTrsX+0iBbA9JFuPAE3gjog+wD6c7ekp\nEY6otZ6xsRsFv+xQs6SAfOQkjwFajkjYSTP9OU2v0U6gbQwXafREgtwO1gJJiaP8\ncJC2MjswT44kBE52H3cVgb8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wizzair@premium-axis-428419-m3.iam.gserviceaccount.com",
+  "client_id": "116569827586398004364",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wizzair%40premium-axis-428419-m3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
